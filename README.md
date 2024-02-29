@@ -1,5 +1,5 @@
-# WebTechnologies-project 
-# Nume echipa: Blue
+# Actors Smart Visualizer - "Web Technologies" Course
+## Nume echipa: Blue
 
 Componenta echipa:
 
@@ -9,5 +9,7 @@ Culbece Rose-Marie-Andreea
 
 Tiron Claudia-Irina
 
-# Link video: https://drive.google.com/file/d/1RgFGMuVWuUANksXfv30Pnw_BSv6BWSNV/view?usp=sharing
-# Documentatia se afla in folderul docs
+[Video Link](https://drive.google.com/file/d/1RgFGMuVWuUANksXfv30Pnw_BSv6BWSNV/view?usp=sharing)
+
+For detailed documentation, navigate to the "docs" folder and open the "documentatie.html" file.
+All the pages are found in "src -> views" folder. To start please open **index.php** file
