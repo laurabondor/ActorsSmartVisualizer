@@ -21,6 +21,6 @@ Actors Smart Visualizer (AcVis) is a powerful web tool developed as part of the 
 
 For detailed documentation, navigate to the "docs" folder and open the "documentatie.html" file.
 
-All the pages are found in "src -> views" folder. To start please open **index.php** file
+All the pages are found in "src -> views" folder. To start please open **index.php** file.
 
 
